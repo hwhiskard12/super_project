@@ -1,5 +1,5 @@
 # Planning - stage 1
-
+dsf
 We need to plan stage 1 of this project. Stage 1 involves the following activities:
 
 1. Install an electric boiler
